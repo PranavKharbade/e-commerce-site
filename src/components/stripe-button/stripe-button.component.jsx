@@ -13,7 +13,7 @@ const StripeCheckoutButton=({price})=>{
 
         <StripeCheckout lable='Pay Now' 
         currency="INR"
-        name='CRWN Cloths Ltd.'
+        name='Vastralaya Ltd.'
         billingAddress
         shippingAddress
         image='https://svgshare.com/i/CUz.svg'
